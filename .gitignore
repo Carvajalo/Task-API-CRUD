@@ -1,0 +1,6 @@
+# environment variables
+#.env //USUALLY THIS IS NOT IN THE GIT REPO, BUT THIS IS PERSONAL STUDYING MATERIAL
+
+# node
+node_modules
+dist
